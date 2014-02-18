@@ -1,0 +1,5 @@
+Description:
+    rails generate foro
+
+    no need to specify a name after foro as you can not change the model name from Follow
+    the foro file will be created in db/migrate
